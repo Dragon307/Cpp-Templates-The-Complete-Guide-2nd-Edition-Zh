@@ -1,6 +1,6 @@
-# 1. Function Template
+# Function Template
 
-[TOC]
+
 
 ## 现在开始
 
